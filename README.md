@@ -25,4 +25,4 @@ The project uses the SMS Spam Collection Dataset, a popular corpus for text clas
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/Srinathi117/Crop-Disease-Identification
+   git clone https://github.com/Srinathi117/Text-Classificiation-of-SMS-Messages-Spam-vs-Ham.git
