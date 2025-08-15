@@ -6,12 +6,9 @@ Text preprocessing plays a vital role in organizing and analyzing short text dat
 ## Dataset
 
 The project uses the SMS Spam Collection Dataset, a popular corpus for text classification tasks.
-
-Source: UCI Machine Learning Repository
-
-Format: CSV file with 2 columns and 5,572 rows
-
-Purpose: Classify SMS messages as spam or ham (not spam)
+ - Source: UCI Machine Learning Repository
+ - Format: CSV file with 2 columns and 5,572 rows
+ - Purpose: Classify SMS messages as spam or ham (not spam)
 
 ## Requirements
 
